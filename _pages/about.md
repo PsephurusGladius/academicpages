@@ -10,8 +10,7 @@ redirect_from:
 ## Education {#education}
 
 - **Tsinghua University** (Expected: Jun. 2027)
-- B.Eng. in Automation
-- Minor in Mathematics (self-paced coursework completion)
+- B.Eng. in Automation, with a Minor in Mathematics
 
 ## Publications {#publications}
 
@@ -43,7 +42,7 @@ redirect_from:
 ## Society {#society}
 
 - Top Grade Volunteer, Drop-in Tutoring, Student Learning and Development Center, Tsinghua University (2025--Present)
-- Staff Member, Software Section, Association for Science and Technology, Department of Automation, Tsinghua University (2024--2025)
+- Staff Member, Software Section, Student Association for Science and Technology, Department of Automation, Tsinghua University (2024--2025)
 - Class Leader, Class 36, Department of Automation, Tsinghua University (2024--2025)
 
 ## Awards {#awards}
