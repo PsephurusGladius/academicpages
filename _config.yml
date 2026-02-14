@@ -27,8 +27,8 @@ author:
   name             : "Dexun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "B.Eng. in Automation at Tsinghua University (Expected Jun. 2027)"
-  location         : "Beijing, China"
-  employer         : "Department of Automation, Tsinghua University"
+  location         :
+  employer         :
   uri              : # URL
   email            : "zdx23@mails.tsinghua.edu.cn" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "PsephurusGladius"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
