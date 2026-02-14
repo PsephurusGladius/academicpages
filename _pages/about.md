@@ -17,28 +17,7 @@ Email: zdx23@mails.tsinghua.edu.cn
 
 - **Tsinghua University** (Expected: Jun. 2027)
 - B.Eng. in Automation
-- GPA: 3.93/4.00 (Rank: 9/173, Top 5.3%)
 - Minor in Mathematics (self-paced coursework completion)
-
-### Selected Courses
-
-Required courses:
-- Discrete Mathematics (A+)
-- Computer Languages and Programming (A+)
-- Calculus A(1) (A)
-- Linear Algebra (A)
-- Data Structures (A)
-- Signals and System Analysis (A)
-- Principles and Systems of Computer (A)
-- General Artificial Intelligence System Practice (1)(2)(3) (A)
-
-Elective courses:
-- Foundations of Logic (A+)
-- Modal Logic and its Applications (A)
-- Probability Theory(1) (A-)
-- Formal Language and Automata (A-)
-- Advanced Topics in Linear Algebra (English) (A-)
-- Introduction to Complex Analysis (A-)
 
 ## Publications {#publications}
 
