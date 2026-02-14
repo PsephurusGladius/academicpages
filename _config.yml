@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -26,10 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Dexun Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "B.Eng. in Automation at Tsinghua University (Expected Jun. 2027)"
+  bio              : "Undergraduate, Automation, THU"
   location         :
-  employer         :
-  uri              : # URL
+  employer         : "Dep. of Automation, THU"
   email            : "zdx23@mails.tsinghua.edu.cn" 
 
   # Academic websites
@@ -359,3 +358,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+

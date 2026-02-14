@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About {#about}
-
-Dexun Zhang  
-B.Eng. in Automation, Tsinghua University (Expected Jun. 2027)  
-Email: zdx23@mails.tsinghua.edu.cn
-
 ## Education {#education}
 
 - **Tsinghua University** (Expected: Jun. 2027)
