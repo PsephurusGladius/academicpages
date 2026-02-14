@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dexun Zhang-Profile"
+title                    : "Dexun Zhang - Academic Homepage"
 title_separator          : "-"
 name                     : &name "Dexun Zhang"
 description              : &description "Dexun Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -356,6 +356,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
 
 
 
