@@ -123,7 +123,7 @@
   .cv-entry__title {
     font-size: 0.98em;
     font-weight: 550;
-    color: var(--global-text-color);
+    color: color-mix(in srgb, var(--global-text-color) 70%, var(--global-text-color-light));
     line-height: 1.4;
   }
 
@@ -166,7 +166,7 @@
   .cv-expand__title {
     font-size: 0.99em;
     font-weight: 550;
-    color: var(--global-text-color);
+    color: color-mix(in srgb, var(--global-text-color) 70%, var(--global-text-color-light));
     line-height: 1.35;
   }
 
