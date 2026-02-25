@@ -13,7 +13,7 @@ redirect_from:
   <div class="cv-entry__main">
     <div class="cv-entry__title">B.Eng. in Automation</div>
     <div class="cv-entry__extra">Minor in Mathematics</div>
-    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
+    <div class="cv-entry__org">Tsinghua University</div>
   </div>
   <div class="cv-entry__date">Expected Jun. 2027</div>
 </div>
@@ -145,7 +145,7 @@ redirect_from:
 <div class="cv-entry cv-entry--award">
   <div class="cv-entry__main">
     <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
-    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
+    <div class="cv-entry__org">Tsinghua University</div>
   </div>
   <div class="cv-entry__date">2023 -- 2024</div>
 </div>
@@ -153,7 +153,7 @@ redirect_from:
 <div class="cv-entry cv-entry--award">
   <div class="cv-entry__main">
     <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
-    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
+    <div class="cv-entry__org">Tsinghua University</div>
   </div>
   <div class="cv-entry__date">2024 -- 2025</div>
 </div>
