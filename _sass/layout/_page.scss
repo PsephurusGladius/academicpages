@@ -123,7 +123,7 @@
   .cv-entry__title {
     font-size: 0.98em;
     font-weight: 550;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     line-height: 1.4;
   }
 
@@ -142,10 +142,6 @@
     white-space: nowrap;
     text-align: right;
     padding-top: 0.1rem;
-  }
-
-  .cv-entry--award .cv-entry__title {
-    color: var(--global-link-color-hover);
   }
 
   .cv-expand {
@@ -170,7 +166,7 @@
   .cv-expand__title {
     font-size: 0.99em;
     font-weight: 550;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     line-height: 1.35;
   }
 
