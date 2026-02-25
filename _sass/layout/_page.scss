@@ -191,6 +191,30 @@
     line-height: 1.35;
   }
 
+  .cv-expand__main {
+    display: block;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  .cv-expand__org {
+    display: block;
+    margin-top: 0.2rem;
+    font-size: 0.88em;
+    color: var(--global-text-color-light);
+    line-height: 1.4;
+  }
+
+  .cv-expand__date {
+    flex: 0 0 auto;
+    font-size: 0.84em;
+    font-weight: 400;
+    color: var(--global-text-color);
+    white-space: nowrap;
+    text-align: right;
+    padding-top: 0.1rem;
+  }
+
   .cv-expand__meta {
     display: block;
     margin-top: 0.18rem;
@@ -242,6 +266,13 @@
 
     .cv-expand__summary {
       padding-left: 1rem;
+    }
+
+    .cv-expand__date {
+      display: block;
+      text-align: left;
+      white-space: normal;
+      padding-top: 0.2rem;
     }
   }
 }

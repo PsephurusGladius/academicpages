@@ -93,11 +93,11 @@ redirect_from:
 
 <details class="cv-expand">
   <summary class="cv-expand__summary">
-    <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
-    <span class="cv-expand__meta">
-      <span class="cv-expand__badge">Student Learning and Development Center, Tsinghua University</span>
-      <span class="cv-expand__badge">2025 -- Present</span>
+    <span class="cv-expand__main">
+      <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
+      <span class="cv-expand__org">Student Learning and Development Center, Tsinghua University</span>
     </span>
+    <span class="cv-expand__date">2025 -- Present</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
@@ -109,11 +109,11 @@ redirect_from:
 
 <details class="cv-expand">
   <summary class="cv-expand__summary">
-    <span class="cv-expand__title">Staff Member, Software Section</span>
-    <span class="cv-expand__meta">
-      <span class="cv-expand__badge">Student Association for Science and Technology, Department of Automation, Tsinghua University</span>
-      <span class="cv-expand__badge">2024 -- 2025</span>
+    <span class="cv-expand__main">
+      <span class="cv-expand__title">Staff Member, Software Section</span>
+      <span class="cv-expand__org">Student Association for Science and Technology, Department of Automation, Tsinghua University</span>
     </span>
+    <span class="cv-expand__date">2024 -- 2025</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
@@ -125,11 +125,11 @@ redirect_from:
 
 <details class="cv-expand">
   <summary class="cv-expand__summary">
-    <span class="cv-expand__title">Class Leader, Class 36</span>
-    <span class="cv-expand__meta">
-      <span class="cv-expand__badge">Department of Automation, Tsinghua University</span>
-      <span class="cv-expand__badge">2024 -- 2025</span>
+    <span class="cv-expand__main">
+      <span class="cv-expand__title">Class Leader, Class 36</span>
+      <span class="cv-expand__org">Department of Automation, Tsinghua University</span>
     </span>
+    <span class="cv-expand__date">2024 -- 2025</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
