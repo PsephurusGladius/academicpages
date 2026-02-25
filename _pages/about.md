@@ -23,26 +23,54 @@ redirect_from:
 
 ## Projects {#projects}
 
-### THUAI 8 (Core Organizer)
-- Led operations including publicity, schedule management, participant liaison, and on-site hosting for a 16-team tournament.
-- Maintained and improved the Unity front-end (UI optimization and bug fixes).
-- Removed redundant in-process resources to improve runtime performance.
+<div class="cv-project">
+  <div class="cv-project__head">
+    <div class="cv-project__title">THUAI 8</div>
+    <div class="cv-project__role">Core Organizer</div>
+  </div>
+  <ul class="cv-project__list">
+    <li>Led operations including publicity, schedule management, participant liaison, and on-site hosting for a 16-team tournament.</li>
+    <li>Maintained and improved the Unity front-end (UI optimization and bug fixes).</li>
+    <li>Removed redundant in-process resources to improve runtime performance.</li>
+  </ul>
+</div>
 
-### The 1st Tsinghua University AI Agent Innovation Challenge (Team Member)
-- Co-built an LLM-based Undergraduate Physics Teaching Assistant for learning and Q&A.
-- Owned interaction flow and usability improvements; wrote major user-facing documentation and product copy.
-- Enabled guided tutoring with hierarchical follow-up questions and structured answers.
-- Awarded First Prize (top 5%).
+<div class="cv-project">
+  <div class="cv-project__head">
+    <div class="cv-project__title">The 1st Tsinghua University AI Agent Innovation Challenge</div>
+    <div class="cv-project__role">Team Member</div>
+  </div>
+  <ul class="cv-project__list">
+    <li>Co-built an LLM-based Undergraduate Physics Teaching Assistant for learning and Q&amp;A.</li>
+    <li>Owned interaction flow and usability improvements; wrote major user-facing documentation and product copy.</li>
+    <li>Enabled guided tutoring with hierarchical follow-up questions and structured answers.</li>
+    <li>Awarded First Prize (top 5%).</li>
+  </ul>
+</div>
 
-### The 4th Tsinghua University Cyberdog Development Competition (Team Leader)
-- Implemented cooperative soccer offense/defense for two quadruped robots based on ROS 2.
-- Coordinated team development and integration testing; delivered a stable system.
-- Awarded Third Prize (ranked 8/19).
+<div class="cv-project">
+  <div class="cv-project__head">
+    <div class="cv-project__title">The 4th Tsinghua University Cyberdog Development Competition</div>
+    <div class="cv-project__role">Team Leader</div>
+  </div>
+  <ul class="cv-project__list">
+    <li>Implemented cooperative soccer offense/defense for two quadruped robots based on ROS 2.</li>
+    <li>Coordinated team development and integration testing; delivered a stable system.</li>
+    <li>Awarded Third Prize (ranked 8/19).</li>
+  </ul>
+</div>
 
-### THUAI 7 (Team Leader)
-- Wrote most of the C++ codebase for an agent in a competitive game environment.
-- Led collaboration, tuning, and evaluation.
-- Awarded Second Prize (ranked 3/34).
+<div class="cv-project">
+  <div class="cv-project__head">
+    <div class="cv-project__title">THUAI 7</div>
+    <div class="cv-project__role">Team Leader</div>
+  </div>
+  <ul class="cv-project__list">
+    <li>Wrote most of the C++ codebase for an agent in a competitive game environment.</li>
+    <li>Led collaboration, tuning, and evaluation.</li>
+    <li>Awarded Second Prize (ranked 3/34).</li>
+  </ul>
+</div>
 
 ## Society {#society}
 
