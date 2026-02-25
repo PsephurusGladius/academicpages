@@ -130,7 +130,7 @@
   .cv-entry__org {
     margin-top: 0.2rem;
     font-size: 0.88em;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     line-height: 1.4;
   }
 
@@ -201,8 +201,18 @@
     display: block;
     margin-top: 0.2rem;
     font-size: 0.88em;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     line-height: 1.4;
+  }
+
+  .cv-org-main {
+    display: block;
+    color: var(--global-text-color);
+  }
+
+  .cv-org-tu {
+    display: block;
+    color: var(--global-text-color-light);
   }
 
   .cv-expand__date {
@@ -213,6 +223,13 @@
     white-space: nowrap;
     text-align: right;
     padding-top: 0.1rem;
+  }
+
+  .cv-expand--dated .cv-expand__summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.8rem;
   }
 
   .cv-expand__meta {
@@ -266,6 +283,10 @@
 
     .cv-expand__summary {
       padding-left: 1rem;
+    }
+
+    .cv-expand--dated .cv-expand__summary {
+      display: block;
     }
 
     .cv-expand__date {

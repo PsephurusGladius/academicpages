@@ -13,7 +13,7 @@ redirect_from:
   <div class="cv-entry__main">
     <div class="cv-entry__title">B.Eng. in Automation</div>
     <div class="cv-entry__extra">Minor in Mathematics</div>
-    <div class="cv-entry__org">Tsinghua University</div>
+    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
   </div>
   <div class="cv-entry__date">Expected Jun. 2027</div>
 </div>
@@ -24,7 +24,7 @@ redirect_from:
 
 ## Projects {#projects}
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">THUAI 8</span>
     <span class="cv-expand__meta">
@@ -40,7 +40,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">The 1st Tsinghua University AI Agent Innovation Challenge</span>
     <span class="cv-expand__meta">
@@ -57,7 +57,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">The 4th Tsinghua University Cyberdog Development Competition</span>
     <span class="cv-expand__meta">
@@ -95,7 +95,7 @@ redirect_from:
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
-      <span class="cv-expand__org">Student Learning and Development Center, Tsinghua University</span>
+      <span class="cv-expand__org"><span class="cv-org-main">Student Learning and Development Center</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
     <span class="cv-expand__date">2025 -- Present</span>
   </summary>
@@ -111,7 +111,7 @@ redirect_from:
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Staff Member, Software Section</span>
-      <span class="cv-expand__org">Student Association for Science and Technology, Department of Automation, Tsinghua University</span>
+      <span class="cv-expand__org"><span class="cv-org-main">Student Association for Science and Technology, Department of Automation</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
     <span class="cv-expand__date">2024 -- 2025</span>
   </summary>
@@ -127,7 +127,7 @@ redirect_from:
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Class Leader, Class 36</span>
-      <span class="cv-expand__org">Department of Automation, Tsinghua University</span>
+      <span class="cv-expand__org"><span class="cv-org-main">Department of Automation</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
     <span class="cv-expand__date">2024 -- 2025</span>
   </summary>
@@ -145,7 +145,7 @@ redirect_from:
 <div class="cv-entry cv-entry--award">
   <div class="cv-entry__main">
     <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
-    <div class="cv-entry__org">Tsinghua University</div>
+    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
   </div>
   <div class="cv-entry__date">2023 -- 2024</div>
 </div>
@@ -153,7 +153,7 @@ redirect_from:
 <div class="cv-entry cv-entry--award">
   <div class="cv-entry__main">
     <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
-    <div class="cv-entry__org">Tsinghua University</div>
+    <div class="cv-entry__org"><span class="cv-org-tu">Tsinghua University</span></div>
   </div>
   <div class="cv-entry__date">2024 -- 2025</div>
 </div>
