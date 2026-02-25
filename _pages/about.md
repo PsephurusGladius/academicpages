@@ -91,7 +91,7 @@ redirect_from:
 <div class="cv-entry cv-entry--award">
   <div class="cv-entry__main">
     <div class="cv-entry__title">First Prize, National Olympiad in Informatics in Provinces (NOIP)</div>
-    <div class="cv-entry__org">National Competition</div>
+    <div class="cv-entry__org">China Computer Federation (CCF)</div>
   </div>
   <div class="cv-entry__date">Winter 2021</div>
 </div>
