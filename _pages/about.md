@@ -24,7 +24,7 @@ redirect_from:
 
 ## Projects {#projects}
 
-<details class="cv-expand cv-expand--dated">
+<details class="cv-expand">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">THUAI 8</span>
     <span class="cv-expand__meta">
@@ -40,7 +40,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand cv-expand--dated">
+<details class="cv-expand">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">The 1st Tsinghua University AI Agent Innovation Challenge</span>
     <span class="cv-expand__meta">
@@ -57,7 +57,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand cv-expand--dated">
+<details class="cv-expand">
   <summary class="cv-expand__summary">
     <span class="cv-expand__title">The 4th Tsinghua University Cyberdog Development Competition</span>
     <span class="cv-expand__meta">
@@ -91,7 +91,7 @@ redirect_from:
 
 ## Society {#society}
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
@@ -107,7 +107,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Staff Member, Software Section</span>
@@ -123,7 +123,7 @@ redirect_from:
   </div>
 </details>
 
-<details class="cv-expand">
+<details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
       <span class="cv-expand__title">Class Leader, Class 36</span>
