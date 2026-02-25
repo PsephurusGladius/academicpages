@@ -23,54 +23,71 @@ redirect_from:
 
 ## Projects {#projects}
 
-<div class="cv-project">
-  <div class="cv-project__head">
-    <div class="cv-project__title">THUAI 8</div>
-    <div class="cv-project__role">Core Organizer</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">THUAI 8</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Core Organizer</span>
+      <span class="cv-expand__badge">Award: -</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Led operations including publicity, schedule management, participant liaison, and on-site hosting for a 16-team tournament.</li>
+      <li>Maintained and improved the Unity front-end (UI optimization and bug fixes).</li>
+      <li>Removed redundant in-process resources to improve runtime performance.</li>
+    </ul>
   </div>
-  <ul class="cv-project__list">
-    <li>Led operations including publicity, schedule management, participant liaison, and on-site hosting for a 16-team tournament.</li>
-    <li>Maintained and improved the Unity front-end (UI optimization and bug fixes).</li>
-    <li>Removed redundant in-process resources to improve runtime performance.</li>
-  </ul>
-</div>
+</details>
 
-<div class="cv-project">
-  <div class="cv-project__head">
-    <div class="cv-project__title">The 1st Tsinghua University AI Agent Innovation Challenge</div>
-    <div class="cv-project__role">Team Member</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">The 1st Tsinghua University AI Agent Innovation Challenge</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Team Member</span>
+      <span class="cv-expand__badge">First Prize (Top 5%)</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Co-built an LLM-based Undergraduate Physics Teaching Assistant for learning and Q&amp;A.</li>
+      <li>Owned interaction flow and usability improvements; wrote major user-facing documentation and product copy.</li>
+      <li>Enabled guided tutoring with hierarchical follow-up questions and structured answers.</li>
+    </ul>
   </div>
-  <ul class="cv-project__list">
-    <li>Co-built an LLM-based Undergraduate Physics Teaching Assistant for learning and Q&amp;A.</li>
-    <li>Owned interaction flow and usability improvements; wrote major user-facing documentation and product copy.</li>
-    <li>Enabled guided tutoring with hierarchical follow-up questions and structured answers.</li>
-    <li>Awarded First Prize (top 5%).</li>
-  </ul>
-</div>
+</details>
 
-<div class="cv-project">
-  <div class="cv-project__head">
-    <div class="cv-project__title">The 4th Tsinghua University Cyberdog Development Competition</div>
-    <div class="cv-project__role">Team Leader</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">The 4th Tsinghua University Cyberdog Development Competition</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Team Leader</span>
+      <span class="cv-expand__badge">Third Prize (8/19)</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Implemented cooperative soccer offense/defense for two quadruped robots based on ROS 2.</li>
+      <li>Coordinated team development and integration testing; delivered a stable system.</li>
+    </ul>
   </div>
-  <ul class="cv-project__list">
-    <li>Implemented cooperative soccer offense/defense for two quadruped robots based on ROS 2.</li>
-    <li>Coordinated team development and integration testing; delivered a stable system.</li>
-    <li>Awarded Third Prize (ranked 8/19).</li>
-  </ul>
-</div>
+</details>
 
-<div class="cv-project">
-  <div class="cv-project__head">
-    <div class="cv-project__title">THUAI 7</div>
-    <div class="cv-project__role">Team Leader</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">THUAI 7</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Team Leader</span>
+      <span class="cv-expand__badge">Second Prize (3/34)</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Wrote most of the C++ codebase for an agent in a competitive game environment.</li>
+      <li>Led collaboration, tuning, and evaluation.</li>
+    </ul>
   </div>
-  <ul class="cv-project__list">
-    <li>Wrote most of the C++ codebase for an agent in a competitive game environment.</li>
-    <li>Led collaboration, tuning, and evaluation.</li>
-    <li>Awarded Second Prize (ranked 3/34).</li>
-  </ul>
-</div>
+</details>
 
 ## Society {#society}
 
