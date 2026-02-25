@@ -9,8 +9,13 @@ redirect_from:
 
 ## Education {#education}
 
-- **Tsinghua University** (Expected: Jun. 2027)
-- B.Eng. in Automation, with a Minor in Mathematics
+<div class="cv-entry">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">B.Eng. in Automation, with a Minor in Mathematics</div>
+    <div class="cv-entry__org">Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">Expected Jun. 2027</div>
+</div>
 
 ## Publications {#publications}
 
@@ -41,12 +46,52 @@ redirect_from:
 
 ## Society {#society}
 
-- Top Grade Volunteer, Drop-in Tutoring, Student Learning and Development Center, Tsinghua University (2025--Present)
-- Staff Member, Software Section, Student Association for Science and Technology, Department of Automation, Tsinghua University (2024--2025)
-- Class Leader, Class 36, Department of Automation, Tsinghua University (2024--2025)
+<div class="cv-entry">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">Top Grade Volunteer, Drop-in Tutoring</div>
+    <div class="cv-entry__org">Student Learning and Development Center, Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">2025 -- Present</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">Staff Member, Software Section</div>
+    <div class="cv-entry__org">Student Association for Science and Technology, Department of Automation, Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">2024 -- 2025</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">Class Leader, Class 36</div>
+    <div class="cv-entry__org">Department of Automation, Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">2024 -- 2025</div>
+</div>
 
 ## Awards {#awards}
 
-- Comprehensive Excellence Scholarship, Tsinghua University (2023--2024)
-- Comprehensive Excellence Scholarship, Tsinghua University (2024--2025)
-- First Prize, National Olympiad in Informatics in Provinces (NOIP) (Winter 2021)
+<div class="cv-entry cv-entry--award">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
+    <div class="cv-entry__org">Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">2023 -- 2024</div>
+</div>
+
+<div class="cv-entry cv-entry--award">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">Comprehensive Excellence Scholarship</div>
+    <div class="cv-entry__org">Tsinghua University</div>
+  </div>
+  <div class="cv-entry__date">2024 -- 2025</div>
+</div>
+
+<div class="cv-entry cv-entry--award">
+  <div class="cv-entry__main">
+    <div class="cv-entry__title">First Prize, National Olympiad in Informatics in Provinces (NOIP)</div>
+    <div class="cv-entry__org">National Competition</div>
+  </div>
+  <div class="cv-entry__date">Winter 2021</div>
+</div>
