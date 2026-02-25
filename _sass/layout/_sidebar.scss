@@ -12,10 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
-
-  @media (orientation: portrait) {
-    margin-top: 1em;
-  }
+  margin-top: 0;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     // Sticky keeps sidebar visible, but lets it move up near page bottom.
@@ -28,6 +25,8 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
+    // #main has top spacing; pull sidebar up so profile sits closer to top-left.
+    margin-top: -2em;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
