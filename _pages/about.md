@@ -11,7 +11,8 @@ redirect_from:
 
 <div class="cv-entry">
   <div class="cv-entry__main">
-    <div class="cv-entry__title">B.Eng. in Automation, with a Minor in Mathematics</div>
+    <div class="cv-entry__title">B.Eng. in Automation</div>
+    <div class="cv-entry__extra">Minor in Mathematics</div>
     <div class="cv-entry__org">Tsinghua University</div>
   </div>
   <div class="cv-entry__date">Expected Jun. 2027</div>
@@ -90,29 +91,54 @@ redirect_from:
 
 ## Society {#society}
 
-<div class="cv-entry">
-  <div class="cv-entry__main">
-    <div class="cv-entry__title">Top Grade Volunteer, Drop-in Tutoring</div>
-    <div class="cv-entry__org">Student Learning and Development Center, Tsinghua University</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Student Learning and Development Center, Tsinghua University</span>
+      <span class="cv-expand__badge">2025 -- Present</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Provided tutoring support for university students in mathematics, computer science, and circuit-related courses.</li>
+      <li>Accumulated more than 270 hours of volunteer service.</li>
+    </ul>
   </div>
-  <div class="cv-entry__date">2025 -- Present</div>
-</div>
+</details>
 
-<div class="cv-entry">
-  <div class="cv-entry__main">
-    <div class="cv-entry__title">Staff Member, Software Section</div>
-    <div class="cv-entry__org">Student Association for Science and Technology, Department of Automation, Tsinghua University</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">Staff Member, Software Section</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Student Association for Science and Technology, Department of Automation, Tsinghua University</span>
+      <span class="cv-expand__badge">2024 -- 2025</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Served as a core contributor to THUAI 8 planning, publicity, operations, and event organization.</li>
+      <li>Actively participated in regular association work, including column review and technical sharing sessions.</li>
+    </ul>
   </div>
-  <div class="cv-entry__date">2024 -- 2025</div>
-</div>
+</details>
 
-<div class="cv-entry">
-  <div class="cv-entry__main">
-    <div class="cv-entry__title">Class Leader, Class 36</div>
-    <div class="cv-entry__org">Department of Automation, Tsinghua University</div>
+<details class="cv-expand">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__title">Class Leader, Class 36</span>
+    <span class="cv-expand__meta">
+      <span class="cv-expand__badge">Department of Automation, Tsinghua University</span>
+      <span class="cv-expand__badge">2024 -- 2025</span>
+    </span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Led the planning and execution of class activities, including Mid-Autumn Festival team building and inter-class table tennis events.</li>
+      <li>Coordinated class annual themes and activity schedules, including planning updates and revisions.</li>
+      <li>Supported integration and onboarding of newly joined classmates.</li>
+    </ul>
   </div>
-  <div class="cv-entry__date">2024 -- 2025</div>
-</div>
+</details>
 
 ## Awards {#awards}
 
