@@ -28,7 +28,6 @@ redirect_from:
     <span class="cv-expand__title">THUAI 8</span>
     <span class="cv-expand__meta">
       <span class="cv-expand__badge">Core Organizer</span>
-      <span class="cv-expand__badge">Award: -</span>
     </span>
   </summary>
   <div class="cv-expand__content">
