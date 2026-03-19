@@ -10,8 +10,8 @@ redirect_from:
 ## Research Interests {#research}
 
 <p>
-  I previously conducted research on multimodal AIGC detection.
-  I am currently exploring topics in control and artificial intelligence.
+  Previously worked on multimodal AIGC detection.
+  Currently exploring topics in control and artificial intelligence.
 </p>
 
 ## Education {#education}
