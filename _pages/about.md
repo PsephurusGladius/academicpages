@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+## Research Interests {#research}
+
+<p>
+  I previously conducted research on multimodal AIGC detection.
+  I am currently exploring topics in control and artificial intelligence.
+</p>
+
 ## Education {#education}
 
 <div class="cv-entry">
