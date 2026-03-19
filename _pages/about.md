@@ -34,8 +34,7 @@ redirect_from:
   <div class="cv-expand__content">
     <ul>
       <li>Led operations including publicity, schedule management, participant liaison, and on-site hosting for a 16-team tournament.</li>
-      <li>Maintained and improved the Unity front-end (UI optimization and bug fixes).</li>
-      <li>Removed redundant in-process resources to improve runtime performance.</li>
+      <li>Maintained and improved the Unity front-end (UI optimization and bug fixes). Removed redundant in-process resources to improve runtime performance.</li>
     </ul>
   </div>
 </details>
@@ -68,7 +67,7 @@ redirect_from:
   <div class="cv-expand__content">
     <ul>
       <li>Implemented cooperative soccer offense/defense for two quadruped robots based on ROS 2.</li>
-      <li>Coordinated team development and integration testing; delivered a stable system.</li>
+      <li>Coordinated team development and integration testing.</li>
     </ul>
   </div>
 </details>
@@ -94,7 +93,7 @@ redirect_from:
 <details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
     <span class="cv-expand__main">
-      <span class="cv-expand__title">Top Grade Volunteer, Drop-in Tutoring</span>
+      <span class="cv-expand__title">Top Grade Tutor, Drop-in Tutoring</span>
       <span class="cv-expand__org"><span class="cv-org-main">Student Learning and Development Center</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
     <span class="cv-expand__date">2025 -- Present</span>
@@ -102,7 +101,7 @@ redirect_from:
   <div class="cv-expand__content">
     <ul>
       <li>Provided tutoring support for university students in mathematics, computer science, and circuit-related courses.</li>
-      <li>Accumulated more than 270 hours of volunteer service.</li>
+      <li>Accumulated more than 270 hours of service.</li>
     </ul>
   </div>
 </details>
