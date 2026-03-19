@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Research Interests {#research}
+## Interests {#interests}
 
 <div class="research-interests">
   <ul>
