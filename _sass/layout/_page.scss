@@ -125,7 +125,9 @@
     min-width: 0;
   }
 
-  .cv-entry__title {
+  .cv-entry__title,
+  .cv-expand__title,
+  .research-interests strong {
     font-size: 0.98em;
     font-weight: 550;
     color: color-mix(in srgb, var(--global-text-color) 70%, var(--global-text-color-light));
@@ -191,8 +193,6 @@
   .cv-expand__title {
     display: block;
     font-size: 0.99em;
-    font-weight: 550;
-    color: color-mix(in srgb, var(--global-text-color) 70%, var(--global-text-color-light));
     line-height: 1.35;
   }
 

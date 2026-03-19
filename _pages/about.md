@@ -9,10 +9,12 @@ redirect_from:
 
 ## Research Interests {#research}
 
-<ul>
-  <li>Previously worked on <strong>multimodal AIGC detection</strong>.</li>
-  <li>Currently exploring topics in <strong>control</strong> and <strong>artificial intelligence</strong>.</li>
-</ul>
+<div class="research-interests">
+  <ul>
+    <li>Previously worked on <strong>multimodal AIGC detection</strong>.</li>
+    <li>Currently exploring topics in <strong>control</strong> and <strong>artificial intelligence</strong>.</li>
+  </ul>
+</div>
 
 ## Education {#education}
 
