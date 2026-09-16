@@ -5,6 +5,8 @@
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
+  // The rest of the site is reduced in _base.scss; preserve the top bar size.
+  font-size: calc(100% + 2px);
   height: fit-content;
   top: 0;
   width: 100%;
