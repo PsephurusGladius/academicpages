@@ -181,18 +181,14 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    font-size: 0.92rem;
+    // Match the navigation labels to the main section-heading size.
+    font-size: calc(1em - 2px);
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
     }
-  }
-
-  .masthead__menu-item--lg a {
-    // Match the site title to the main section-heading size.
-    font-size: calc(1em - 2px);
   }
 
   button {
