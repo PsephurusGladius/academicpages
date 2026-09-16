@@ -1,4 +1,4 @@
-﻿# The following is the order of the links in the header of the website.
+# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -11,17 +11,14 @@ main:
   - title: "Education"
     url: /#education
 
+  - title: "Awards"
+    url: /#awards
+
   - title: "Publications"
     url: /#publications
 
-  - title: "Projects"
-    url: /#projects
-
-  - title: "Society"
-    url: /#society
-
-  - title: "Awards"
-    url: /#awards
+  - title: "Services"
+    url: /#services
 
   - title: "Blog"
     url: "https://blog.psephurusgladius.com/"

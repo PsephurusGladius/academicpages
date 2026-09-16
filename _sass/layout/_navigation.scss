@@ -276,7 +276,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
+      font-size: calc(1em - 2px);
 
       &:hover {
         color: var(--global-masthead-link-color-hover);

@@ -56,13 +56,20 @@ redirect_from:
 
 ## Services {#services}
 
-<div class="cv-entry">
-  <div class="cv-entry__main">
-    <div class="cv-entry__title">Teaching Assistant, Calculus A(1)</div>
-    <div class="cv-entry__org">Tsinghua University</div>
+<details class="cv-expand cv-expand--dated">
+  <summary class="cv-expand__summary">
+    <span class="cv-expand__main">
+      <span class="cv-expand__title">Teaching Assistant, Calculus A(1)</span>
+      <span class="cv-expand__org"><span class="cv-org-tu">Tsinghua University</span></span>
+    </span>
+    <span class="cv-expand__date">Sep. 2026 -- Present</span>
+  </summary>
+  <div class="cv-expand__content">
+    <ul>
+      <li>Provided Q&amp;A support and led problem-solving sessions.</li>
+    </ul>
   </div>
-  <div class="cv-entry__date">Sep. 2026 -- Present</div>
-</div>
+</details>
 
 <details class="cv-expand cv-expand--dated">
   <summary class="cv-expand__summary">
@@ -70,7 +77,7 @@ redirect_from:
       <span class="cv-expand__title">Top Grade Tutor, Drop-in Tutoring</span>
       <span class="cv-expand__org"><span class="cv-org-main">Student Learning and Development Center</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
-    <span class="cv-expand__date">2025 -- Present</span>
+    <span class="cv-expand__date">Mar. 2025 -- Present</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
@@ -86,7 +93,7 @@ redirect_from:
       <span class="cv-expand__title">Staff Member, Software Section</span>
       <span class="cv-expand__org"><span class="cv-org-main">Student Association for Science and Technology, Department of Automation</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
-    <span class="cv-expand__date">2024 -- 2025</span>
+    <span class="cv-expand__date">Jul. 2024 -- Jun. 2025</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
@@ -103,7 +110,7 @@ redirect_from:
       <span class="cv-expand__title">Class Leader, Class 36</span>
       <span class="cv-expand__org"><span class="cv-org-main">Department of Automation</span><span class="cv-org-tu">Tsinghua University</span></span>
     </span>
-    <span class="cv-expand__date">2024 -- 2025</span>
+    <span class="cv-expand__date">Jul. 2024 -- Aug. 2025</span>
   </summary>
   <div class="cv-expand__content">
     <ul>
