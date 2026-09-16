@@ -17,9 +17,10 @@
   margin-top: 0;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    // Sticky keeps sidebar visible, but lets it move up near page bottom.
-    position: sticky;
+    // Keep the profile anchored to the viewport instead of the page container.
+    position: fixed;
     top: calc(#{$masthead-height} - 0.75em);
+    left: 1em;
     max-height: none;
     overflow-y: visible;
     padding-top: 0;
@@ -29,6 +30,11 @@
     @include span(2 of 12);
     // Pull the profile closer to the masthead without changing the photo frame.
     margin-top: -2.75em;
+
+    @media screen and (min-width: $sidebar-screen-min-width) {
+      margin-top: 0;
+    }
+
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -39,6 +45,7 @@
   }
 
   @include breakpoint($x-large) {
+    left: calc(50% - #{($x-large / 2)} + 1em);
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
