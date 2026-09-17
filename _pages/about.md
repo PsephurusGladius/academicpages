@@ -82,7 +82,7 @@ redirect_from:
   <div class="cv-expand__content">
     <ul>
       <li>Provided tutoring support for university students in mathematics, computer science, and circuit-related courses.</li>
-      <li>Accumulated more than 270 hours of service.</li>
+      <li>Accumulated more than 330 hours of service.</li>
     </ul>
   </div>
 </details>

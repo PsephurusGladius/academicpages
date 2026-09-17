@@ -60,12 +60,34 @@ function updateNav() {
 
   // Update masthead height and body/sidebar top padding.
   var mastheadHeight = $('.masthead').height();
+  var $sidebar = $(".sidebar");
   $('body').css('padding-top', mastheadHeight + 'px');
+
+  // Restore the stylesheet geometry before remeasuring after a resize.
+  $sidebar.css({
+    "position": "",
+    "top": "",
+    "left": "",
+    "width": "",
+    "margin-top": ""
+  });
+
   if ($(".author__urls-wrapper button").is(":visible")) {
-    $(".sidebar").css("padding-top", "");
+    $sidebar.css("padding-top", "");
   } else {
     // Keep a small separation below the masthead without duplicating its full height.
-    $(".sidebar").css("padding-top", mastheadHeight / 2 + "px");
+    $sidebar.css("padding-top", mastheadHeight / 2 + "px");
+
+    // Preserve the sticky layout's exact size and position, then pin it to the
+    // viewport so the bottom of #main cannot push it upward.
+    var sidebarRect = $sidebar[0].getBoundingClientRect();
+    $sidebar.css({
+      "position": "fixed",
+      "top": sidebarRect.top + "px",
+      "left": sidebarRect.left + "px",
+      "width": sidebarRect.width + "px",
+      "margin-top": 0
+    });
   }
 
 }
